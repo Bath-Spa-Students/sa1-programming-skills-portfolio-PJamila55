@@ -85,4 +85,5 @@ elif turk == "istanbul":
 else:
     print(f"Wrong, the capital of Türkiye is Ankara, not {turk.capitalize()}.")
 
+# TOTAL QUESTIONS: 10 EUROPEAN COUNTRIES
 # END - THANK YOU!
