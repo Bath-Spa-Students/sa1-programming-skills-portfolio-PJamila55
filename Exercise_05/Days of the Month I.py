@@ -19,13 +19,12 @@ bread = {
 }
 
 '''( 3 ) User Input with Validation'''
-# Keeps asking user to input a valid month number until they do
 while True:
     butter = int(input("Enter month numerically (1-12): "))
     
     if 1 <= butter <= 12:
         print(f"There are {bread[butter]} days in month {butter}!")
-        break  # Exit loop once a valid input is provided
+        break
     else:
         print("Please input a number between 1-12.")
         
