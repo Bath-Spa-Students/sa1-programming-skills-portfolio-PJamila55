@@ -8,11 +8,11 @@ hometown = input("What is your hometown? ")
 
 while True:
     age = input("How old are you? ")
-    if age.isdigit(): # Accepts if the user's "age" is typed as an integer or digit
+    if age.isdigit(): 
         age = int(age) 
         break 
     else:
-        print("Please enter it in digits. ") # Forces the user to type in their age properly before continuing
+        print("Please enter it in digits. ") # Forces the user to type in their age properly
 
 '''( 3 ) Print Dictionary'''
 print("Your Information:")
