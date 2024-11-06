@@ -2,24 +2,19 @@
 # Princess Jamila Dinglasan
 
 '''( 2 ) Using the "Input" Function'''
-# Prints a question and waits for the user's input
-# .lower() is used to make the input case-insensitive
+# .lower() used to make the input case-insensitive
 
 # 1 Paris
 paris = input("What is the capital of France? ").lower()
 
 '''( 3 ) "If" Statement {Equal to}'''
-# Using the If statement + "==" to state if the input is accurate
-# Added elif statements to respond if the input is different / wrong
-# .capitalize() is used to make the capitalization of the first letter for each city correct
-
 if paris == "paris":
     print(f"Correct, {paris.capitalize()} is the capital of France! ")
 else:
     print(f"Wrong, the capital of France is Paris, not {paris.capitalize()}.")
 
-'''( 4 ) Repeat for the next 9 questions'''
 
+'''( 4 ) Repeat for the next 9 questions'''
 # 2 Germany
 germ = input("What is the capital of Germany? ").lower()
 if germ == "berlin":
