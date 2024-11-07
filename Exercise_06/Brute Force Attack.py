@@ -8,7 +8,7 @@ jelly = 0
 
 '''( 3 ) User Input'''
 while jelly < peanut_butter:
-    entry = input("Enter the password: ")
+    entry = input("Enter password: ")
     
     if entry == secret_code:
         print("Access granted. Welcome back! :)")
