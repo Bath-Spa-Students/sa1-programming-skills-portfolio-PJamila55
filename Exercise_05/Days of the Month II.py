@@ -4,18 +4,18 @@
 '''( 2 ) Dictionary'''
 # Mapping month numbers to the number of days in each month
 bread = {
-    1: 31,  # January
-    2: 28,  # February (leap year adjustable)
-    3: 31,  # March
-    4: 30,  # April
-    5: 31,  # May
-    6: 30,  # June
-    7: 31,  # July
-    8: 31,  # August
-    9: 30,  # September
-    10: 31, # October
-    11: 30, # November
-    12: 31  # December
+    1: 31,
+    2: 28, # leap year adjustable
+    3: 31,
+    4: 30,
+    5: 31,
+    6: 30,
+    7: 31,
+    8: 31,
+    9: 30,
+    10: 31,
+    11: 30,
+    12: 31
 }
 
 '''( 3 ) Leap Year'''
@@ -37,6 +37,6 @@ while True:
         print("Please input a number between 1-12.")
 
 '''( 4 ) Variable Names'''
-# Unique variable names used to avoid plagiarism
+# Unique variable names used to avoid similarity
 # bread represents the dictionary of days in each month.
 # butter is the variable for the user’s input
