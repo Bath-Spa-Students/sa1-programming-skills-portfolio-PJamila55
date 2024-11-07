@@ -1,5 +1,5 @@
 '''( 1 ) Exercise 5 - Days of the Month'''
-# Princess Jamila Dinglasan
+# Princess Jamila Dinglasan 
 
 '''( 2 ) Dictionary'''
 # Mapping month numbers to the number of days in each month (without leap year)
