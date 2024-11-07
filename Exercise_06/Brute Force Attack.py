@@ -1,5 +1,5 @@
 '''( 1 ) Exercise 6 - Brute Force Attack Simulation'''
-# Princess Jamila Dinglasan
+# Princess Jamila Dinglasan 
 
 '''( 2 ) Assigning Variables'''
 secret_code = "12345"
