@@ -1,5 +1,5 @@
 '''( 1 ) Exercise 7 - Counting Loops'''
-# Princess Jamila Dinglasan
+# Princess Jamila Dinglasan 
 
 '''( 2 ) Loops'''
 print("\n")
