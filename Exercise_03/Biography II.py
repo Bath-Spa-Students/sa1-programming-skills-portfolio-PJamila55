@@ -1,5 +1,5 @@
 '''( 1 ) Exercise 3 - Biography - ADVANCED'''
-# Princess Jamila Dinglasan
+# Princess Jamila Dinglasan 
 
 '''( 2 ) Variables'''
 # Ask the user to type their information and store it in the variable
