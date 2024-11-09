@@ -1,5 +1,5 @@
 '''( 1 ) Exercise 8 - Simple Search'''
-# Princess Jamila Dinglasan
+# Princess Jamila Dinglasan 
 
 '''( 2 ) Creating Dictionary'''
 people = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
