@@ -1,5 +1,5 @@
 '''( 1 ) Exercise 10 - Is It Even?'''
-# Princess Jamila Dinglasan
+# Princess Jamila Dinglasan 
 
 '''( 2 ) Function to Check Even or Odd'''
 def even_or_odd(num):
