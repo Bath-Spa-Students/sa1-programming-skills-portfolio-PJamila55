@@ -75,8 +75,6 @@ else:
 turk = input("What is the capital of Türkiye? ").lower()
 if turk == "ankara":
     print(f"Correct, the capital of Türkiye is {turk.capitalize()}!")
-elif turk == "istanbul":
-    print(f"Though {turk.capitalize()} used to be the Türkiye capital, it was changed to Ankara after 1923.")
 else:
     print(f"Wrong, the capital of Türkiye is Ankara, not {turk.capitalize()}.")
 
