@@ -1,4 +1,4 @@
-# Taking a Food Order
+# Taking a Food Order 
 
 def get_yes_no(prompt):
     while True:
